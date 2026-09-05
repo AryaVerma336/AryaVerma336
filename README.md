@@ -1,7 +1,7 @@
 <div align="center">
 
   # 👋 Hi, I'm Arya Verma
-  ### 🚀 Full-Stack Developer & AI/ML Enthusiast | Technical Lead @ CHIPSET
+  ### 🚀 Full-Stack Developer & AI/ML Enthusiast | Technical and PR & Marketing Member @ CHIPSET
 
   <p align="center">
     <a href="https://github.com/AryaVerma336">
@@ -30,7 +30,7 @@ class AryaVerma:
         self.name = "Arya Verma"
         self.role = "Full-Stack Developer & AI/ML Engineer"
         self.education = "B.Tech CSE (AI/ML) @ SRM Institute of Science and Technology"
-        self.leadership = "Technical Lead & PR/Marketing Lead @ CHIPSET"
+        self.leadership = "Technical and PR & Marketing Member @ CHIPSET"
         self.domain_focus = ["HealthTech", "InsurTech", "AgriTech", "Predictive AI"]
 
     def get_philosophy(self):
@@ -42,7 +42,7 @@ class AryaVerma:
 ### 📌 About Me
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (Specialization: AI/ML) at **SRM Institute of Science and Technology** (2024 – 2028).
-- 💡 **Leadership:** Technical Lead & PR/Marketing Lead at **CHIPSET** (SRM's oldest technical club) — organizing coding workshops & flagship hackathons like *VibeX* and *HelloHackers*.
+- 💡 **Role:** Technical and PR & Marketing Member at **CHIPSET** (SRM's oldest technical club) — organizing coding workshops & flagship hackathons like *VibeX* and *HelloHackers*.
 - ⚡ **Problem Solver:** Solved **400+ DSA & Competitive Programming** problems.
 - 🔬 **Recognition:** Selected for a national **Science & AI Program** in Lucknow.
 
