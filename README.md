@@ -7,7 +7,7 @@
     <a href="https://github.com/AryaVerma336">
       <img src="https://img.shields.io/badge/GitHub-AryaVerma336-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com/in/arya-verma">
+    <a href="https://www.linkedin.com/in/arya-verma-5b97a731b/">
       <img src="https://img.shields.io/badge/LinkedIn-Arya--Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:aryaverma190@gmail.com">
