@@ -31,11 +31,6 @@ class AryaVerma:
         self.role = "Full-Stack Developer & AI/ML Engineer"
         self.education = "B.Tech CSE (AI/ML) @ SRM Institute of Science and Technology"
         self.leadership = "Technical Lead & PR/Marketing Lead @ CHIPSET"
-        self.achievements = [
-            "🏆 Winner - DevJams '25 (National Hackathon)",
-            "🏅 Top 50 Finish - GuideWire National Hackathon (2025)",
-            "🧩 400+ DSA & Competitive Programming Problems Solved"
-        ]
         self.domain_focus = ["HealthTech", "InsurTech", "AgriTech", "Predictive AI"]
 
     def get_philosophy(self):
@@ -50,7 +45,6 @@ class AryaVerma:
 - 💡 **Leadership:** Technical Lead & PR/Marketing Lead at **CHIPSET** (SRM's oldest technical club) — organizing coding workshops & flagship hackathons like *VibeX* and *HelloHackers*.
 - ⚡ **Problem Solver:** Solved **400+ DSA & Competitive Programming** problems.
 - 🔬 **Recognition:** Selected for a national **Science & AI Program** in Lucknow.
-- 💼 **Experience:** Web Development Intern at *Sai Raj Traders*.
 
 ---
 
@@ -149,31 +143,6 @@ class AryaVerma:
     </td>
   </tr>
 </table>
-
----
-
-### 🏆 Achievements & Recognition
-
-- 🥇 **Winner — DevJams '25** | National-level hackathon victor (2025)
-- 🏅 **Top-50 Finish — GuideWire Hackathon** | National level competition (2025)
-- 🧬 **National Science & AI Program Selection** | Selected in Lucknow (2022)
-- 🏸 **1st Place** | Inter-School Badminton Champion
-- 🤖 **3rd Place** | Inter-School Robotics Competition
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryaVerma336&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Arya's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaVerma336&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaVerma336&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ---
 
