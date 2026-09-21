@@ -1,7 +1,9 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Arya%20Verma&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Arya Verma Header Banner" />
 
-  # 👋 Hi, I'm Arya Verma
-  ### 🚀 Full-Stack Developer & AI/ML Enthusiast | Technical and PR & Marketing Member @ CHIPSET
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Technical+%26+PR%2FMarketing+Member+%40+CHIPSET;400%2B+DSA+Problems+Solved" alt="Typing SVG" />
+  </p>
 
   <p align="center">
     <a href="https://github.com/AryaVerma336">
@@ -14,37 +16,55 @@
       <img src="https://img.shields.io/badge/Email-aryaverma190%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/AryaVerma336">
-      <img src="https://komarev.com/ghpvc/?username=AryaVerma336&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=AryaVerma336&color=00c6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
     </a>
   </p>
-
 </div>
 
 ---
 
-### 💻 `whoami`
-
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>💻 <code>whoami</code></h3>
 ```python
 class AryaVerma:
     def __init__(self):
         self.name = "Arya Verma"
         self.role = "Full-Stack Developer & AI/ML Engineer"
-        self.education = "B.Tech CSE (AI/ML) @ SRM Institute of Science and Technology"
-        self.leadership = "Technical and PR & Marketing Member @ CHIPSET"
-        self.domain_focus = ["HealthTech", "InsurTech", "AgriTech", "Predictive AI"]
+        self.education = "B.Tech CSE (AI/ML) @ SRM Institute"
+        self.leadership = "Technical & PR/Marketing Member @ CHIPSET"
+        self.domain_focus = ["HealthTech", "InsurTech", "AgriTech"]
 
     def get_philosophy(self):
-        return "Moving seamlessly from raw data pipelines to polished, deployable UIs."
+        return "Seamlessly bridging raw data pipelines to deployable UIs."
 ```
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📌 About Me
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering (Specialization: AI/ML) at **SRM Institute of Science and Technology** (2024 – 2028).
-- 💡 **Role:** Technical and PR & Marketing Member at **CHIPSET** (SRM's oldest technical club) — organizing coding workshops & flagship hackathons like *VibeX* and *HelloHackers*.
-- ⚡ **Problem Solver:** Solved **400+ DSA & Competitive Programming** problems.
-- 🔬 **Recognition:** Selected for a national **Science & AI Program** in Lucknow.
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <ul>
+        <li>🎓 <b>Education:</b> B.Tech in Computer Science & Engineering (Specialization: AI/ML) at <b>SRM Institute of Science and Technology</b> (2024 – 2028).</li>
+        <li>💡 <b>Role:</b> Technical and PR & Marketing Member at <b>CHIPSET</b> (SRM's oldest technical club) — organizing coding workshops & flagship hackathons like <i>VibeX</i> and <i>HelloHackers</i>.</li>
+        <li>⚡ <b>Problem Solver:</b> Solved <b>400+ DSA & Competitive Programming</b> problems.</li>
+        <li>🔬 <b>Recognition:</b> Selected for a national <b>Science & AI Program</b> in Lucknow.</li>
+      </ul>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="130" alt="Laptop Emoji" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -147,5 +167,6 @@ class AryaVerma:
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/AryaVerma336">Arya Verma</a></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" alt="Footer Wave Banner" />
+  <p><sub>Designed with ❤️ by <a href="https://github.com/AryaVerma336">Arya Verma</a></sub></p>
 </div>
