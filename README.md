@@ -23,48 +23,33 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>💻 <code>whoami</code></h3>
+### 💻 `whoami`
+
 ```python
 class AryaVerma:
     def __init__(self):
         self.name = "Arya Verma"
         self.role = "Full-Stack Developer & AI/ML Engineer"
-        self.education = "B.Tech CSE (AI/ML) @ SRM Institute"
-        self.leadership = "Technical & PR/Marketing Member @ CHIPSET"
-        self.domain_focus = ["HealthTech", "InsurTech", "AgriTech"]
+        self.education = "B.Tech CSE (AI/ML) @ SRM Institute of Science and Technology"
+        self.leadership = "Technical and PR & Marketing Member @ CHIPSET"
+        self.domain_focus = ["HealthTech", "InsurTech", "AgriTech", "Predictive AI"]
 
     def get_philosophy(self):
         return "Seamlessly bridging raw data pipelines to deployable UIs."
 ```
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
 
 ---
 
 ### 📌 About Me
 
-<table width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <ul>
-        <li>🎓 <b>Education:</b> B.Tech in Computer Science & Engineering (Specialization: AI/ML) at <b>SRM Institute of Science and Technology</b> (2024 – 2028).</li>
-        <li>💡 <b>Role:</b> Technical and PR & Marketing Member at <b>CHIPSET</b> (SRM's oldest technical club) — organizing coding workshops & flagship hackathons like <i>VibeX</i> and <i>HelloHackers</i>.</li>
-        <li>⚡ <b>Problem Solver:</b> Solved <b>400+ DSA & Competitive Programming</b> problems.</li>
-        <li>🔬 <b>Recognition:</b> Selected for a national <b>Science & AI Program</b> in Lucknow.</li>
-      </ul>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="130" alt="Laptop Emoji" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="320" alt="Coding Animation" />
+
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (Specialization: AI/ML) at **SRM Institute of Science and Technology** (2024 – 2028).
+- 💡 **Role:** Technical and PR & Marketing Member at **CHIPSET** (SRM's oldest technical club) — organizing coding workshops & flagship hackathons like *VibeX* and *HelloHackers*.
+- ⚡ **Problem Solver:** Solved **400+ DSA & Competitive Programming** problems.
+- 🔬 **Recognition:** Selected for a national **Science & AI Program** in Lucknow.
+
+<br clear="right"/>
 
 ---
 
